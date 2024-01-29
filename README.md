@@ -10,7 +10,7 @@
 <body>
     <div class="wrapper">
         <h2 class="question">Will you go out with me?</h2>
-        <img class="gif" alt="gif" src="https://media.giphy.com/media/FTGah7Mx3ss04PcasF/giphy.gif"/>
+        <img class="gif" alt="gif" src="https://tenor.com/view/silly-altright-pepe-rekt-frog-hammer-anime-gif-15946863"/>
         <div class="btn-group">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
