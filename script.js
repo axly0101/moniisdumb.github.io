@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yay, You accepted you are dumb and you love me!";
   gif.src =
-    "https://tenor.com/view/silly-altright-pepe-rekt-frog-hammer-anime-gif-15946863";
+    "https://giphy.com/gifs/animated-cute-f4V2mqvv0wT9m";
 });
 
 noBtn.addEventListener("mouseover", () => {
